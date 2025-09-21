@@ -1,1 +1,1 @@
-# Deepfake-Detector
+# DeepFake-Detector
